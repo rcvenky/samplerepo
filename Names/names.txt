@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 Venky
 Vaikunth
 Ashwin
@@ -7,6 +7,7 @@ Prasanth
 Hari
 Bala
 
-=======
+<======>
 My Name is Venkatesh P R
->>>>>>> f3665b0 (Added Names Folder)
+I'm From Thanjavur
+<======>
